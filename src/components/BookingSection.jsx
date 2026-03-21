@@ -58,7 +58,7 @@ const BookingSection = () => {
             <div className="overflow-hidden rounded-[24px] border border-white/10 bg-neutral-950/70">
               <iframe
                 title="Calendly Booking"
-                src="https://calendly.com/calendly-demo/30min"
+                src="https://calendly.com/samuelgill1996/haircut-appointment"
                 className="h-[760px] w-full"
               />
             </div>
