@@ -42,11 +42,11 @@ const Navbar = () => {
             className="flex items-center gap-3 text-left"
           >
             <div className="flex h-11 w-11 items-center justify-center rounded-full border border-gold-400/50 bg-gold-400/10 text-lg font-black text-gold-300">
-              PB
+              VM
             </div>
             <div>
-              <p className="text-xs uppercase tracking-[0.35em] text-gold-300">Premium</p>
-              <p className="text-lg font-semibold text-white">Barber Shop</p>
+              <p className="text-xs uppercase tracking-[0.35em] text-gold-300">Villegas</p>
+              <p className="text-lg font-semibold text-white">Men's Salon</p>
             </div>
           </button>
 

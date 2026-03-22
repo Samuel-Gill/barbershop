@@ -4,9 +4,9 @@ import { FiMail, FiMapPin, FiPhoneCall } from 'react-icons/fi';
 import SectionHeading from './SectionHeading';
 
 const contactDetails = [
-  { icon: FiPhoneCall, label: 'Phone', value: '(555) 123-4567' },
+  { icon: FiPhoneCall, label: 'Phone', value: '(484) 687-8167' },
   { icon: FiMail, label: 'Email', value: 'hello@premiumbarbershop.com' },
-  { icon: FiMapPin, label: 'Address', value: '125 Gold Street, New York, NY 10001' },
+  { icon: FiMapPin, label: 'Address', value: '35 Bridge St, Phoenixville, PA 19460' },
 ];
 
 const initialMessage = {
