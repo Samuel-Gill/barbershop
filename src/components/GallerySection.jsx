@@ -7,10 +7,10 @@ import SectionHeading from './SectionHeading';
 const galleryImages = [
   'https://images.unsplash.com/photo-1621605815971-fbc98d665033?auto=format&fit=crop&w=900&q=80',
   'https://images.unsplash.com/photo-1503951458645-643d53bfd90f?auto=format&fit=crop&w=900&q=80',
-  'https://images.unsplash.com/photo-1512690459411-b0fd1c86b8ce?auto=format&fit=crop&w=900&q=80',
+  'https://images.unsplash.com/photo-1621605815971-fbc98d665033?auto=format&fit=crop&w=900&q=80',
   'https://images.unsplash.com/photo-1519415943484-9fa1873496d4?auto=format&fit=crop&w=900&q=80',
   'https://images.unsplash.com/photo-1521590832167-7bcbfaa6381f?auto=format&fit=crop&w=900&q=80',
-  'https://images.unsplash.com/photo-1599351431405-2f48520d3f93?auto=format&fit=crop&w=900&q=80',
+  'https://images.unsplash.com/photo-1621605815971-fbc98d665033?auto=format&fit=crop&w=900&q=80',
 ];
 
 const GallerySection = () => (
